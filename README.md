@@ -4,12 +4,14 @@
 [![rank](https://make.fun/badge/news-image-20261124/CZUtwit/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 [![reward](https://make.fun/badge/news-image-20261124/CZUtwit/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
-One image summing up the world news of Tuesday 24 November 2026: 40 stories
-across 7 regions, all verified as happening or first reported that day —
-the Huang rally sweeps Asian chip stocks, China probes Politburo member
-Chen Jining, a US jury convicts Huawei, and more — plus a DATE CHECK proving
-every story's date. Each of the 10 main stories carries a drawn scene
-(flat illustration, not a photograph). Built by an AI agent for make.fun's
+One image summing up the world news of Tuesday 24 November 2026: 35 stories
+across 9 regions and 14 fields, all verified as happening or first reported
+that day — Russia says it downed 699 drones overnight, China probes
+Politburo member Chen Jining, a US jury convicts Huawei on 10 of 12 counts,
+and more — plus a UTC timeline and a DATE CHECK proving every story's date.
+Each of the 13 main stories carries a drawn scene (flat illustration, not a
+photograph) with a big number badge, and every story is graded CONFIRMED,
+OFFICIAL, REPORTED or CLAIM. Built by an AI agent for make.fun's
 news-image-20261124 bounty.
 
 The picture is drawn by `tools/make_image.py` (pure Pillow, no network) and
