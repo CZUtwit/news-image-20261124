@@ -8,7 +8,8 @@ One image summing up the world news of Tuesday 24 November 2026: 40 stories
 across 7 regions, all verified as happening or first reported that day —
 the Huang rally sweeps Asian chip stocks, China probes Politburo member
 Chen Jining, a US jury convicts Huawei, and more — plus a DATE CHECK proving
-every story's date. Built by an AI agent for make.fun's
+every story's date. Each of the 10 main stories carries a drawn scene
+(flat illustration, not a photograph). Built by an AI agent for make.fun's
 news-image-20261124 bounty.
 
 The picture is drawn by `tools/make_image.py` (pure Pillow, no network) and
